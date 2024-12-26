@@ -39,3 +39,10 @@ Using Power BI, I brought this data to life with interactive dashboards that mak
 
 <img width="1035" alt="Screenshot- Super 12" src="https://github.com/user-attachments/assets/967d181d-beb0-426e-85e2-c0a5f02897c1" />
 
+
+## Conclusion
+
+This project provided a deep dive into the exciting world of T20 International cricket, uncovering valuable insights into player and team performances for the year 2022. With data covering 219 players from 16 countries, I meticulously processed and analyzed information across five tables, ensuring it was clean, consistent, and ready for meaningful analysis.
+
+The project emphasizes how data can help us understand the strategy behind every run scored and wicket taken, showcasing the dynamic nature of modern cricket. Looking ahead, features like real-time match data and sentiment analysis can take this analysis even further, enabling live insights and connecting the numbers to the emotions of fans worldwide. This work not only celebrates the sport but also opens the door for smarter, data-driven decisions in cricket.
+
