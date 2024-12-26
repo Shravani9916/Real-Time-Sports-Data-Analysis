@@ -1,5 +1,6 @@
 # Real-Time-Sports-Data-Analysis
-##Introduction
+
+## Introduction
 
 In a world where cricket is not just a sport but a celebrated global phenomenon, this project delves deep into the heart of T20 International cricket, uncovering the analytical trends and performance insights of players and teams.
 
