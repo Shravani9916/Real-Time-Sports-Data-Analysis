@@ -12,15 +12,30 @@ Using Power BI, I brought this data to life with interactive dashboards that mak
 ## Dataset Used
 <a href="https://github.com/Shravani9916/Real-Time-Sports-Data-Analysis/blob/main/CSV%20Files.zip"> Sports Dataset </a>
 
+
+## Steps Followed
+- Data Collection: Scraped real-time cricket data from 16 countries using Python and BeautifulSoup, automating the pipeline for continuous updates.
+- Data Cleaning: Processed 10,000+ rows using Pandas to handle missing values, filter records, and compute key metrics like strike rates and economies.
+- Exploratory Analysis: Analyzed player and team performance trends using Python libraries (Pandas, NumPy, Matplotlib) to identify actionable patterns.
+- Dashboard Visualization: Built interactive Power BI dashboards to display team performance, player rankings, and match summaries with dynamic filters.
+- Optimization & Reporting: Optimized scripts for faster processing and delivered insights to support data-driven decision-making.
+
+
 ## Interactive Dashboard Images
 <img width="1035" alt="Screenshot- Openers" src="https://github.com/user-attachments/assets/676edc26-2f67-4f90-a455-1b96f3f70850" />
 
+
 <img width="1016" alt="Screenshot- Anchors" src="https://github.com/user-attachments/assets/ac077452-4965-4f58-b375-57e93176d10c" />
+
 
 <img width="1035" alt="Screenshot- Finishers" src="https://github.com/user-attachments/assets/67108f11-ebee-4614-b792-a03ff235250e" />
 
+
 <img width="1035" alt="Screenshot- All Rounders" src="https://github.com/user-attachments/assets/73afa6fd-7740-4f9e-a62f-85f1c852e07e" />
+
 
 <img width="1035" alt="Screenshot- Bowlers" src="https://github.com/user-attachments/assets/a6fc1085-ddb9-4d4b-8ba6-9dd8735ee276" />
 
+
 <img width="1035" alt="Screenshot- Super 12" src="https://github.com/user-attachments/assets/967d181d-beb0-426e-85e2-c0a5f02897c1" />
+
